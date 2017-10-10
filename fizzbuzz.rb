@@ -5,7 +5,7 @@ elsif int % 5 == 0
     "Buzz"
 elsif int % 5 or 3 == 0
     "FizzBuzz"
-else
+else int !% 5 or 3 == 0
   false
   end
 end
