@@ -4,3 +4,4 @@ def fizzbuzz(int)
   else
      puts "FizzBuzz"
   end
+end
