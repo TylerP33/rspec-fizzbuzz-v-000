@@ -12,7 +12,7 @@ def fizzbuzz(int)
   end
 
   if int % 3 || 5 !== 0
-    return 
+    return
   end
 
 end
