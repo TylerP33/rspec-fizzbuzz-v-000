@@ -4,5 +4,5 @@ def fizzbuzz(fizz_3)
   end
   if fizz_5 % 5 == 0
     "Buzz"
-  end 
+  end
 end
