@@ -5,6 +5,6 @@ elsif int % 5 == 0
     "Buzz"
 elsif int % 5 && 3 == 0
     "FizzBuzz"
-else 
+else
   end
 end
