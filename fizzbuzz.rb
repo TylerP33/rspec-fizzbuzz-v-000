@@ -11,8 +11,4 @@ def fizzbuzz(int)
     "FizzBuzz"
   end
 
-  if int % 3 || 5 !== 0
-    return
   end
-
-end
