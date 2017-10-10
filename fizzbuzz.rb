@@ -1,4 +1,4 @@
-def fizzbuzz(fizz_3)
+def fizzbuzz(fizz_3, fizz_5)
   if fizz_3 % 3 == 0
     "Fizz"
   end
